@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+archivo.csv
+mtcars.csv
+Superstore-Sales.csv
